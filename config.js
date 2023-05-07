@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Parth Sharma',
+  siteTitle: 'Kriti Choudhary',
   manifestName: 'Resume',
   manifestShortName: 'Landing',
   manifestStartUrl: '/',
@@ -8,8 +8,8 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/me.jpg',
   pathPrefix: `/gatsby-starter-resume/`, // This path is subpath of your hosting https://domain/portfolio
-  firstName: 'Parth ',
-  lastName: 'Sharma',
+  firstName: 'Kriti ',
+  lastName: 'Choudhary',
 
   socialLinks: [
     {
@@ -20,25 +20,10 @@ module.exports = {
     {
       icon: 'fa-linkedin-in',
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/parth-sharma-265403193/',
-    },
-    {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/parthsh63745814',
-    },
-    {
-      icon: 'fa-facebook-f',
-      name: 'Facebook',
-      url: 'https://www.facebook.com/parthsharma0707',
-    },
-    {
-      icon: 'fa-instagram',
-      name: 'Facebook',
-      url: 'https://instagram.com/parthcricketer',
+      url: 'https://www.linkedin.com/in/kriti-choudhary-32556a1b0/',
     },
   ],
-  email: 'parths.ug18.cs@nitp.ac.in',
-  phone: '+91-9617704017',
-  address: '95, Amrit Nagar, Dewas (MP), pincode-455001',
+  email: 'kritichoudhary025@gmail.com',
+  phone: '+91-9826903636',
+  address: '267, Mishrilal Nagar, Dewas (MP), pincode-455001',
 };
