@@ -23,10 +23,9 @@ const IndexPage = () => (
             <a href={`mailto:${config.email}`}>{config.email}</a>
           </div>
           <p className="lead mb-5">
-            I am an experienced developer with good work experience in mobile and web development fields.
-            I also love to contribute towards coding community and have demonstrated leadership skills by
-            being one of the founding members of the developers' club of my college NIT Patna and the first technical
-            lead of DSC NIT Patna.
+            I am an experienced developer with good experience in data transformation and ETL fields.
+            Apart from bein an SDE, I have great interest in outdoor activities like cycling and javelin throw.
+            I am eager to learn new skills and adapt myself as per the given situation.
           </p>
           <div className="social-icons">
             {config.socialLinks.map(social => {
@@ -94,7 +93,7 @@ const IndexPage = () => (
             <div className="resume-content">
               <h3 className="mb-0">Institute of Engineering And Technology, DAVV</h3>
               <div className="subheading mb-3">Bachelor of Engineering</div>
-              <div>Computer Science and Engineering</div>
+              <div>Computer Engineering</div>
               <p>CGPA: 9</p>
             </div>
             <div className="resume-date text-md-right">
@@ -195,12 +194,10 @@ const IndexPage = () => (
         <div className="w-100">
           <h2 className="mb-5">Interests</h2>
           <p>
-            Apart from being a developer, I enjoy playing cricket with my friends
-            in my free time. I am a travelling enthusiast and never miss an opportunity
-            to travel to a new place whenever I get a chance.
-          </p>
-          <p className="mb-0">
-            When forced indoors, I follow a number of sci-fi and fantasy genre
+            Apart from being a developer, I enjoy readng books. I also enjoy taking
+            my bicycle out for a ride whenever I get a chance.
+            <br></br>
+            When forced indoors, I follow a number of sci-fi and mystery-thriller genre
             movies and television shows and also enjoy watching web series.
           </p>
         </div>

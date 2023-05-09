@@ -12,11 +12,11 @@ module.exports = {
   lastName: 'Choudhary',
 
   socialLinks: [
-    {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/parthsharma07',
-    },
+    // {
+    //   icon: 'fa-github',
+    //   name: 'Github',
+    //   url: 'https://github.com/parthsharma07',
+    // },
     {
       icon: 'fa-linkedin-in',
       name: 'Linkedin',
